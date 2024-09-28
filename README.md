@@ -5,6 +5,8 @@
 Arcade space shooter
 ## Implementation
 Background Image
+Changed Sprites
+Added Music
 ## References
 
 ## Future Development

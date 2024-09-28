@@ -4,7 +4,7 @@
  09/28/2024
 Arcade space shooter
 ## Implementation
-
+Background Image
 ## References
 
 ## Future Development
